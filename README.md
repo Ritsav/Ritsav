@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a tech enthusiast currently studying and working towards mobile/web development & possibly going towards AI & ML later on.
 
 <!--
 **Ritsav/Ritsav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
